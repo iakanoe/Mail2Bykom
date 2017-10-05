@@ -1,0 +1,38 @@
+[15:48:08]:Buscando SMS
+[15:49:09]:Buscando SMS
+[15:49:40]:Buscando SMS
+[15:53:50]:Buscando SMS
+[16:09:45]:Buscando SMS
+[16:17:12]:Buscando SMS
+[16:28:50]:Buscando SMS
+[16:28:57]:Prueba enviada a Bykom al puerto 8033 con la cuenta 0031.
+[21:16:24]:Buscando SMS
+[21:19:55]:Heartbit enviado
+[21:20:26]:Heartbit enviado
+[21:20:58]:Heartbit enviado
+[21:21:29]:Heartbit enviado
+[21:22:00]:Heartbit enviado
+[21:22:31]:Heartbit enviado
+[21:23:02]:Heartbit enviado
+[21:23:33]:Heartbit enviado
+[21:24:04]:Heartbit enviado
+[21:24:35]:Heartbit enviado
+[21:25:07]:Heartbit enviado
+[21:25:38]:Heartbit enviado
+[21:26:09]:Heartbit enviado
+[21:26:40]:Heartbit enviado
+[21:59:08]:Buscando SMS
+[21:59:10]:Heartbit enviado
+[21:59:41]:Heartbit enviado
+[22:03:09]:Buscando SMS
+[22:03:14]:Heartbit enviado
+[22:04:28]:Buscando SMS
+[22:04:29]:Heartbit enviado
+[22:05:22]:PRUEBA 01/0031 --- número de origen 01159241710 .
+[22:05:22]:Heartbit enviado
+[22:06:02]:Buscando SMS
+[22:06:04]:Heartbit enviado
+[22:06:36]:PRUEBA 01/0031 --- número de origen 01159241710 .
+[22:06:36]:Heartbit enviado
+[22:08:52]:Buscando SMS
+[22:08:56]:Heartbit enviado

@@ -1,0 +1,22 @@
+[17:22:02]:Buscando SMS
+[17:35:32]:Buscando SMS
+[17:39:33]:PRUEBA AY/0031 por 1 hora --- número de origen 01159241710  - habilitado:False.
+[17:39:34]:PRUEBA 01/0031 por 1 hora --- número de origen 01159241710  - habilitado:True.
+[17:41:44]:Buscando SMS
+[17:43:27]:PRUEBA 01/0031 por 1 hora --- número de origen 01159241710  - habilitado: True.
+[17:43:29]:PRUEBA 01/0031 por 1 hora --- número de origen 01159241710  - habilitado: True.
+[17:43:32]:PRUEBA AY/0031 por 1 hora --- número de origen 01159241710  - habilitado: False.
+[17:43:35]:PRUEBA 01/0031 por 4 horas --- número de origen 01159241710  - habilitado: True.
+[17:43:37]:PRUEBA 01/0031 por 1 hora --- número de origen 01159241710  - habilitado: True.
+[17:43:40]:LLAMAR 01/0031 --- número de origen 01159241710  - habilitado: True.
+[17:44:11]:Heartbit enviado
+[17:51:07]:Buscando SMS
+[17:51:14]:LLAMAR 01/0031 --- número de origen 01159241710  - habilitado: True.
+[17:51:17]:LLAMAR AY/0031 --- número de origen 01159241710  - habilitado: False.
+[17:52:23]:PRUEBA 01/0031 por 1 hora --- número de origen 01159241710  - habilitado: True.
+[17:53:26]:Heartbit enviado
+[17:54:00]:NORMAL AY/0031 --- número de origen 01159241710  - habilitado: False.
+[17:54:35]:PRUEBA AY/0031 por 1 hora --- número de origen 01159241710  - habilitado: False.
+[17:56:11]:PRUEBA AY/0031 por 4 horas --- número de origen 01159241710  - habilitado: False.
+[17:56:12]:Heartbit enviado
+[17:57:16]:PRUEBA AY/0031 por 2 horas --- número de origen 01159241710  - habilitado: False.

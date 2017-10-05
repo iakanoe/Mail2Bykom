@@ -1,0 +1,28 @@
+[09:37:37]:Buscando SMS
+[09:46:49]:Buscando SMS
+[09:50:52]:Buscando SMS
+[10:06:06]:Buscando SMS
+[10:06:42]:PRUEBA AY/0031 por 1 hora --- número de origen +5491151381001  - habilitado: False.
+[10:07:16]:PRUEBA 01/0031 por 1 hora --- número de origen +5491151381001  - habilitado: False.
+[10:08:44]:Buscando SMS
+[10:09:21]:PRUEBA AY/0031 por 1 hora --- número de origen +5491151381001  - habilitado: True.
+[10:09:25]:PRUEBA 01/0031 por 1 hora --- número de origen +5491151381001  - habilitado: True.
+[10:10:23]:Buscando SMS
+[10:10:58]:PRUEBA AY/0031 por 1 hora --- número de origen +5491151381001  - habilitado: False.
+[11:06:34]:Buscando SMS
+[11:13:25]:Buscando SMS
+[11:13:34]:PRUEBA 01/0031 por 1 hora --- número de origen +5491151381001  - habilitado: True.
+[11:15:36]:Buscando SMS
+[11:16:14]:PRUEBA 01/311
+ por 1 hora --- número de origen +5491151381001  - habilitado: True.
+[11:17:37]:PRUEBA 01/0031 por 1 hora --- número de origen +5491151381001  - habilitado: True.
+[11:18:11]:PRUEBA 01/1626 por 1 hora --- número de origen 01154896992  - habilitado: False.
+[11:19:15]:Heartbit enviado
+[11:22:00]:Buscando SMS
+[11:24:37]:Buscando SMS
+[11:25:42]:PRUEBA 01/0031 por 1 hora --- número de origen +5491151381001  - habilitado: True.
+[11:26:56]:PRUEBA 01/0031 por 1 hora --- número de origen +5491151381001  - habilitado: True.
+[11:27:24]:Buscando SMS
+[11:28:44]:Buscando SMS
+[11:30:19]:PRUEBA 01/0031 por 1 hora --- número de origen +5491151381001  - habilitado: True.
+[11:32:11]:PRUEBA 01/0031 por 1 hora --- número de origen +5491151381001  - habilitado: True.

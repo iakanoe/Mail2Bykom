@@ -1,0 +1,11 @@
+C:\Users\Ianick\documents\visual studio 2015\Projects\sendmailtobykom\consola pop3\bin\Release\consola pop3.exe.config
+C:\Users\Ianick\documents\visual studio 2015\Projects\sendmailtobykom\consola pop3\bin\Release\consola pop3.exe
+C:\Users\Ianick\documents\visual studio 2015\Projects\sendmailtobykom\consola pop3\bin\Release\consola pop3.pdb
+C:\Users\Ianick\documents\visual studio 2015\Projects\sendmailtobykom\consola pop3\bin\Release\consola pop3.xml
+C:\Users\Ianick\documents\visual studio 2015\Projects\sendmailtobykom\consola pop3\obj\Release\consola pop3.vbprojResolveAssemblyReference.cache
+C:\Users\Ianick\documents\visual studio 2015\Projects\sendmailtobykom\consola pop3\obj\Release\consola_pop3.Form1.resources
+C:\Users\Ianick\documents\visual studio 2015\Projects\sendmailtobykom\consola pop3\obj\Release\consola_pop3.Resources.resources
+C:\Users\Ianick\documents\visual studio 2015\Projects\sendmailtobykom\consola pop3\obj\Release\consola pop3.vbproj.GenerateResource.Cache
+C:\Users\Ianick\documents\visual studio 2015\Projects\sendmailtobykom\consola pop3\obj\Release\consola pop3.exe
+C:\Users\Ianick\documents\visual studio 2015\Projects\sendmailtobykom\consola pop3\obj\Release\consola pop3.xml
+C:\Users\Ianick\documents\visual studio 2015\Projects\sendmailtobykom\consola pop3\obj\Release\consola pop3.pdb
